@@ -185,6 +185,6 @@ var respImages = (function(){
 
 
 // Usage
-var someVar = new respImages({
-	crop: true
-}); 
+// var someVar = new respImages({
+// 	crop: true
+// }); 
