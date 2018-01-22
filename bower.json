@@ -1,5 +1,6 @@
 {
-  "name": "Responsive Images",
+  "name": "responsive-images",
+  "version": "0.3",
   "authors": [
     "Tiago Castro <tiagocastro@loba.pt>"
   ],
@@ -10,7 +11,7 @@
     "images"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://www.loba.pt/",
   "ignore": [
     "**/.*",
     "node_modules",
