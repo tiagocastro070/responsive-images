@@ -5,7 +5,7 @@
     "Tiago Castro <tiagocastro@loba.pt>"
   ],
   "description": "Update image size according to its parent width.",
-  "main": "/dist/respimages.js",
+  "main": "dist/respimages.js",
   "keywords": [
     "responsive",
     "images"
